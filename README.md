@@ -1,3 +1,6 @@
+In order to use this app you have to create your own scaledrone channel and replace the text "Your Scaledrone Channel" in app.js file with your scaledrone channel.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
